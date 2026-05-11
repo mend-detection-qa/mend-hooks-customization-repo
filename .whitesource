@@ -1,7 +1,0 @@
-{
-  "scanSettings": {
-    "skipScanningStage": {
-      "hooks": ["common", "npm"]
-    }
-  }
-}
