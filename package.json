@@ -1,0 +1,16 @@
+{
+  "name": "mend-hooks-customization-repo-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample package.json kept alongside the customization repo so npm hooks can be exercised locally.",
+  "scripts": {
+    "test": "echo \"no tests\" && exit 0"
+  },
+  "dependencies": {
+    "express": "4.19.2",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
